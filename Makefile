@@ -4,4 +4,4 @@ demo: demo.o malloc.o
 
 .PHONY: clean
 clean:
-	rm -f *.o
+	rm -f demo *.o
